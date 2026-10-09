@@ -1,33 +1,49 @@
-# Deep Learning CS-DS
+# Deep Learning for CS-DS
 
-This repository contains study and preparation material for the Deep Learning component of the CS-DS course.
+A compact learning repository for students exploring Deep Learning in the Computer Science and Data Science curriculum.
 
-It is intended to keep all relevant learning resources in one place so students can access revision notes, focused topics, and preparation material in a single repository.
+This repository is intended to serve as a central place for course material, learning resources, and study guidance. The goal is to keep the content accessible, structured, and useful for students as they build both intuition and practical understanding of deep learning.
 
-## Contents
+## Course Focus
 
-- `Deep_Learning_Preparation_Material_CIE-1.docx` — preparation guide and study material for the course
-- `Deep_Learning_CIE-1_Topics_to_Focus_On.docx` — key topics and areas to prioritize for revision and assessment
+The material in this repository is designed to support a deep learning course for CS-DS students, with an emphasis on:
 
-## Purpose
+- foundational concepts in machine learning and neural networks
+- mathematical intuition behind deep learning models
+- practical understanding of training, optimization, and representation learning
+- structured revision and study support
 
-The goal of this repo is to maintain and organize the core learning resources for the CS-DS Deep Learning curriculum, including:
+## Visual Learning Resources
 
-- key concepts and course topics
-- preparation material for exams and assessments
-- focused revision topics
-- a centralized location for course resources
+To build intuition and understanding, the course draws on visual explanations and conceptual frameworks from:
 
-## Recommended Use
+- [Linear Algebra](https://linearalgebra.info)
 
-1. Start with the preparation material to build a strong foundation.
-2. Use the topics-to-focus-on document for revision and prioritization.
-3. Keep this repository as a reference point throughout the course.
+These resources are especially helpful for understanding the mathematical ideas behind neural networks, optimization, and representation learning.
+
+## Course Units
+
+- [Unit 1](https://docs.google.com/presentation/d/1Hkczn92Wi75hm2Cc_Bnh3kbw32s0ng5C/edit?usp=drivesdk&ouid=116025589128606060426&rtpof=true&sd=true)
+- [Unit 2](https://docs.google.com/presentation/d/1L7xZPB9_vg176SDIVjztCB5xoh7RZDPc/edit?usp=sharing&ouid=116025589128606060426&rtpof=true&sd=true)
+
+## Repository Contents
+
+This repository currently includes course preparation and revision material for the Deep Learning component of the CS-DS program.
+
+- `Deep_Learning_Preparation_Material_CIE-1.docx` — preparation and study material
+- `Deep_Learning_CIE-1_Topics_to_Focus_On.docx` — key topics for revision and assessment focus
+
+## How to Use This Repository
+
+1. Start with the preparation material to build a solid conceptual base.
+2. Review the topic focus list to prioritize revision areas.
+3. Use the linked visual and unit resources to deepen understanding.
+4. Keep this repository as a reference point throughout the course.
 
 ## Notes
 
-This repository is designed to be a simple, lightweight archive of course material. It may be expanded over time with more notes, slides, datasets, scripts, or additional learning resources.
+This repository is intentionally simple and generic, designed as a lightweight educational resource for students and instructors. It can grow over time with notes, examples, notebooks, datasets, and additional learning materials.
 
 ## License
 
-This repository currently does not include a formal license file. Please check with the course owner or repository maintainer before reusing the material beyond personal study.
+This repository does not currently include a formal license file. Please check with the course owner or repository maintainer before reusing the material beyond personal study and educational use.
