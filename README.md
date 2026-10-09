@@ -40,10 +40,4 @@ This repository currently includes course preparation and revision material for 
 3. Use the linked visual and unit resources to deepen understanding.
 4. Keep this repository as a reference point throughout the course.
 
-## Notes
 
-This repository is intentionally simple and generic, designed as a lightweight educational resource for students and instructors. It can grow over time with notes, examples, notebooks, datasets, and additional learning materials.
-
-## License
-
-This repository does not currently include a formal license file. Please check with the course owner or repository maintainer before reusing the material beyond personal study and educational use.
