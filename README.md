@@ -30,6 +30,10 @@ These resources are especially helpful for understanding the mathematical ideas 
 - [Unit 1](https://docs.google.com/presentation/d/1Hkczn92Wi75hm2Cc_Bnh3kbw32s0ng5C/edit?usp=drivesdk&ouid=116025589128606060426&rtpof=true&sd=true)
 - [Unit 2](https://docs.google.com/presentation/d/1L7xZPB9_vg176SDIVjztCB5xoh7RZDPc/edit?usp=sharing&ouid=116025589128606060426&rtpof=true&sd=true)
 
+## Additional lab materials
+
+https://drive.google.com/drive/folders/1uRA-ZfkmjlB8HwrIoycHhOuGQuoTgoHF
+
 ## Repository Contents
 
 This repository currently includes course preparation and revision material for the Deep Learning component of the CS-DS program.
